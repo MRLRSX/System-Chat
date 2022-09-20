@@ -2,7 +2,7 @@
 
 ### System Chat <br>
 <p> System Chat e um projeto basico do curso da <em>Universidade XTI</em>. Finalidade<br>
-do projeto era testar os conchecimentos da API de SWING E SOCKET Java.</p>
+do projeto era testar os conhecimentos da API de SWING E SOCKET Java.</p>
 <br>
 
 1. Execute a Class ->  ChatServer
